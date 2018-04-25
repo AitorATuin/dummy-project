@@ -1,4 +1,4 @@
 all:
 	echo "Dummy makefile"
 	tree
-	sleep 300
+	sleep 30
