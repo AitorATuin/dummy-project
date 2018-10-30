@@ -1,0 +1,5 @@
+{
+    test-project = {
+        domain="test.test.io"
+    }
+}
