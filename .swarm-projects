@@ -1,5 +1,5 @@
 {
     test-project = {
-        domain="test.test.io"
+        domain = test.test.io
     }
 }
